@@ -1,0 +1,30 @@
+"""
+Q1
+Object Oriented programming is a programming style which is associated with the concepts like class, object,
+Inheritance, Encapsulation, Abstraction, Polymorphism.this is also help full for Real world programming.We first
+create class and of that class we make instance of class also know as object.OOP include two important things attributes
+and behaviors.Attributes differentiate it from other class. Behaviors tell what task which object perform
+Q2
+BENEFITS OF OOP
+->It implements real life scenario.
+->In OOP, programmer not only defines data types but also deals with operations applied for data structures.
+->OOP provides a clear modular structure for programs.
+->It is good for defining abstract data types.
+->Implementation details are hidden from other modules and other modules has a clearly defined interface.
+->It is easy to maintain and modify existing code as new objects can be created with small differences to existing
+ones.
+->objects, methods, instance, message passing, inheritance are some important properties provided by these 
+particular languages
+->encapsulation, polymorphism, abstraction are also counts in these fundamentals of programming language.
+Q3
+
+Method is define inside the class and define the behavior of object.
+Function can be define anywhere in the program.
+
+Q4
+Class define the attributes of an object.
+Object is instance of class.
+Attributes store the information about Object.
+Behavior tells what task will the object perform.
+
+"""
